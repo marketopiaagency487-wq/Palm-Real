@@ -1,6 +1,6 @@
-export const PHONE_DISPLAY = "01027709029";
-export const PHONE_TEL = "+201027709029";
-export const WHATSAPP_NUMBER = "201027709029";
+export const PHONE_DISPLAY = "01001050018";
+export const PHONE_TEL = "+201001050018";
+export const WHATSAPP_NUMBER = "201001050018";
 export const LEADS_EMAIL = "leads@grandeur-spaces.com";
 
 export type Locale = "ar" | "en";
